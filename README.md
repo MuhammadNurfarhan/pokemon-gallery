@@ -3,7 +3,7 @@
 A responsive Pokémon gallery built with **Next.js 15**, **Tailwind CSS**, and the **PokeAPI**.  
 Browse through hundreds of Pokémon with pagination, skeleton loading, and optimized image handling.
 
-![Preview](https://placehold.co/800x400/efefef/333333?text=Pokemon+Gallery+Preview) <!-- Ganti dengan screenshot asli jika deploy -->
+<img width="1329" height="828" alt="image" src="https://github.com/user-attachments/assets/3ee5ab95-ac7b-4061-95b3-b8cdf4a2309d" />
 
 ## ✨ Features
 
